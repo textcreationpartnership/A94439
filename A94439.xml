@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Commons of England, assembled in Parliament. The humble petitions of the well-affected, in and about the City of London, Westminster, and parts adjacent; presenters, and approvers of the late petition of the 11. of September, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94439</idno>
+            <idno type="STC">Wing T1391</idno>
+            <idno type="STC">Thomason E579_9</idno>
+            <idno type="STC">ESTC R206178</idno>
+            <idno type="EEBO-CITATION">99865353</idno>
+            <idno type="PROQUEST">99865353</idno>
+            <idno type="VID">165474</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94439)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165474)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 89:E579[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Commons of England, assembled in Parliament. The humble petitions of the well-affected, in and about the City of London, Westminster, and parts adjacent; presenters, and approvers of the late petition of the 11. of September, &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 14. 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Expulsion --  Early works to 1800.</term>
+               <term>Representative government and representation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:165474:1" rendition="simple:additions"/>
+            <head>TO THE Commons of <hi>England,</hi> Aſſembled in PARLIAMENT.</head>
+            <head type="sub">The Humble <hi>Petition</hi> of the well-affected, in and about the City of <hi>London, Weſtminſter,</hi> and parts adjacent; Preſenters, and Approvers of the late <hi>Petition</hi> of the <hi>11.</hi> of September, &amp;c.</head>
+            <opener>
+               <salute>SHEVVETH,</salute>
+            </opener>
+            <p>THAT As the <hi>wiſdome</hi> and <hi>Goodneſſe</hi> of God is the beſt example to all Authorities in the World; ſo thoſe in Authoritie can in no<g ref="char:EOLhyphen"/>thing more reſemble God, then in their readineſſe to heare and receive the complaints and Petitions of any that apply themſelves unto them: And who in caſes of diſſatisfaction willingly condi<g ref="char:EOLhyphen"/>ſcend to a reaſoning out of all doubts and differences, for ſo his goodneſſe daigned to <hi>commune wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h his ſervant Abraham,</hi> and <hi>even to a ſinnefull and gainſaying People</hi> hee ſaith, <hi>come let us Reaſon together.</hi>
+            </p>
+            <p>And ſurely if ever there were neede of ſuch a goodneſſe now is the time, when not only complaints and diſtractions abound in all places, but multitudes of cor<g ref="char:EOLhyphen"/>diall friends to the Parliament are exceedingly grieved and ſadned in their ſpirits, as not ſeeing the Common-Wealth in a condition of freedome, or exemption from grievances and burthens (in any meaſure) anſwerable to the many pro<g ref="char:EOLhyphen"/>miſes of the Parliament, to the affections of thoſe that have aſſiſted them, or to the endeavours, engagements, intentions and deſires of the Army.</p>
+            <p>Every one believing, That in a very ſhort time after the expulſion of the greater number of the Members of this honourable Houſe (as betrayers of their truſt) A new Repreſentative ſhould immediately have beene ordered, according to that Moddell of an Agreement of the People, tendered by the Counſell of the Army, or in ſome other way: And that becauſe that honourable Councell in their Declaration of <hi>December</hi> laſt Declared, <hi>That they ſhould not looke on the re<g ref="char:EOLhyphen"/>maining part as a formall ſtanding Power to bee continued; but in order unto, and untill the inttoducing of a more full and formall Power in a juſt Repreſenta<g ref="char:EOLhyphen"/>tive to bee ſpeedily endeavoured,</hi> by an Agreement of the People.</p>
+            <p>And we were the more confident hereof, becauſe they had formerly declared alſo, <hi>That where the Supreame Authoritie was fixt in the ſame Perſons during their owne pleaſure, it rendered that Government no better then a Tyrannie, and the People ſubject thereunto, no better then Vaſſells: That by frequent Elections men come to taſte of ſubjection as well as Rule</hi> (and are thereby oblieged for their
+<pb n="2" facs="tcp:165474:2"/>owne ſakes to bee tender of the good of the People) ſo that conſidering thoſe ex<g ref="char:EOLhyphen"/>preſſions and thoſe extraordinary things done (<hi>declaredly</hi>) for a ſpeedy <hi>new Elected Parliament;</hi> how it ſhould come not only to bee wholly deferred; but to bee matter of blame for us or any of our friends earneſtly to deſire what is ſo evidently juſt and neceſſary in it ſelfe, and ſo eſſentiall to the Liberties of the Nation perplexeth us above meaſure; and wee intreat ſome ſatisfacton therein.</p>
+            <p>And truly when you had voted the People under God to bee the originall of all juſt Power, and the choſen Repreſentatives of the People, the Supreame Authoritie, wee conceived that you did it to convey thoſe Righteous principles (which wee and our friends long laboured for) to the next full and formall Re<g ref="char:EOLhyphen"/>preſentative, and not that you intended to have exerciſed the Supreame Law making Power.</p>
+            <p>Much leſſe, that ſuch enſnaring Lawes ſhould ever have iſſued from a houſe of Commons ſo often and ſo exceedingly purged (intentionally by the Army) for the freedome of the Common-Wealth, as is your Act againſt Treaſon, where<g ref="char:EOLhyphen"/>in, contrary to the courſe of former Parliaments and to <hi>Magna Charta,</hi> ſo many things are made Treaſon, that it is almoſt impoſſible for any to diſcourſe with any affection for performance of Promiſes and Engagements, or for the Liberties of the Nation, but hee is in danger of his life, if Judges and Juries ſhould take it for good Law, which God forbid.</p>
+            <p>Alſo your Act for continuance and receipt of Exciſe (which every one hoped upon the prevailing of the Army weuld have had a <hi>finall end</hi>) to Trade more oppreſſive then all the Pattents, Projects, and Shipmoney put together.</p>
+            <p>Alſo your act for continuance &amp; ſtrict receipt of Cuſtoms was exceeding croſſe to expectation, that and the other for Exciſe being eſteemed moſt deſtructive to all kind of Commerce, Shiping, and Navigation, and are ſo chargeable in the re<g ref="char:EOLhyphen"/>ceipt, as that if what is disburſed to Officers and Collectors were raiſed in an ordinary way of Subſidies it would goe very farre towards the publique charge, which it was hoped you would have ſeriouſly laid to heart, and have prepared a way to have caſed the Nation of both, and to have raiſed all publique moneys by way of Subſidies.</p>
+            <p>It was hoped alſo, That you would have don ſomething towards eaſing the Peo<g ref="char:EOLhyphen"/>ple of the <hi>long complained burthen</hi> of Tythes, rather then to have enforced the ſame upon treble dammages.</p>
+            <p>It was alſo expected upon the prevailing of the Army and the reducement of this honourable Houſe, That the Printing Preſſes ſhould have beene fully opened and ſet at free Liberty, for the cleare Information of the People, the ſtopping of them having beene complained of as a great oppr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion in the Biſhops times, and in the time of the late unpurged Parliament, rather then ſuch an Act againſt all unlicenſed Printing, Writing or Publiſhing, as for ſtrictneſſe and ſeverity was never before ſeene in <hi>England,</hi> and is extreamely diſſatisfactory to moſt People.</p>
+            <p>And truly when you had Declared ſo highly and reſolvedly for the maintenance of the Law of the Land, as to the defence of every mans Liberty and Property according to that excellent Law of the <hi>Petition of Right,</hi> you may ſoone conceive what heart breaking and torment of Spirit was occaſioned by your ſeizing in an hoſtile manner ſuch conſtant cordiall Promoters of thoſe excellent Maximes fore<g ref="char:EOLhyphen"/>mentioned, by the commitment of them in an extrajuditiall manner to an Arbitrary
+<pb n="3" facs="tcp:165474:2"/>Priſon, where they have beene long time Priſoners, and moſt of that time cloſſe Priſon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, their Chambers and Pockets ſearch'd more then once, to find matter againſt them (things altogether unparliamentary) yea, denyed a legall Tryall, no legall Crime being laid to their Charge, nor Accuſer or Witneſſe, over ſeene by them face to face, as Law requires; and this to the Ruine of themſelves and Families as to temporall ſubſiſtance: Wee profeſſe wee are not able to expreſſe the griefe and amazement that ſeized on us thereupon, and which is dayly renewed upon us, in that, now after extreame provocations, you ſeeme Reſolved to take away the life of our deare friend Mr. <hi>Lilburne</hi> and others, not by any ordinary way of Triall at the uſuall Aſſizes, but by a ſpeciall Commiſſion of <hi>Oyer</hi> and <hi>Ter<g ref="char:EOLhyphen"/>miner,</hi> the judges being compoſed of ſuch as whoſe intereſt hee hath long oppo<g ref="char:EOLhyphen"/>ſed; a way much complained of in the corrupt times before this Parliament, and which wee hoped wee ſhould have heard no more of in this Nation.</p>
+            <p>And although this is too too lamentable, yet would this were all; but if wee un<g ref="char:EOLhyphen"/>derſtand the Petition of Right truly, the puting of Souldiers to death, or to other reproachfull &amp; painfull puniſhments, by Martiall-Law, in time of Peace, is not a<g ref="char:EOLhyphen"/>greeable thereunto, and if wee are deceived therein, the expreſſe words of that Law hath deceived us.</p>
+            <p>But that ſuch as have ventured their Lives for you, and thought nothing too deere to bee ſpent in defence of a juſt Parliamentary-Authority, ſhould yet be im<g ref="char:EOLhyphen"/>priſoned [as ſome ſuch there are] in remote Caſtles, and uſed more Barbarouſly then Mr. <hi>Burton,</hi> M. <hi>Prinne,</hi> and Dr. <hi>Baſtwick</hi> in the Biſhops time, and how ſoone intended to bee proceeded againſt, by ſpeciall Commiſſion of <hi>Oyer</hi> and <hi>Terminer</hi> [wee cannot but feare:] This makes our very hearts to bleed, and our Bowels to ea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne within us; inſomuch as if no Reaſon, Conſcience, feare of God, or ſence of Religion will put a ſpeedy ſtop to theſe proceedings, but our moſt deere Friends [becauſe ever faithfull to their Countrey] muſt thus bee ruined and ſlaughtered, under pretence of Tryalls, wee ſhall not deſire to breathe longer i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this World, as ſeeing nothing but Miſery and Slavery like to follow after them.</p>
+            <p>What a ſad thing, we beſeech you is it, that it ſhould be thus in this Nation, in the firſt yeere of <hi>Englands</hi> Liberty [as you would haue it eſteemed] which in our apprehenſion exceeds in Miſery &amp; Thraldome, the worſt of <hi>Englands</hi> bondage.</p>
+            <p>For b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſides what hath been mentioned, what is more frequent then to examine men againſt themſelves, to impriſon men by votes of Committees, to ſeize upon mens Perſons by Purſuivants and Meſſengers, to ſweare men againſt themſelves; Taxes and Impoſitions never ſo high, and Soldiers [not civill Officer] let to ga<g ref="char:EOLhyphen"/>ther them, to the terror of the People; and upon the leaſt denyall, either violence or an Impriſonment ceriainly enſue<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h: Lawyers in effect are ſaid to rule all, the Lawes are trod under-foot by them, and wreſted to what ſence they pleaſe, &amp; Law<g ref="char:EOLhyphen"/>ſuits extended beyond all reaſon, in reſpect of time &amp; charge, then [as is verily ſup<g ref="char:EOLhyphen"/>poſed] having mudded the cleere intentions of this Houſe, and perverted the juſt intentions of the Army, poore impotent Priſoners for debt and ſmall offences a<g ref="char:EOLhyphen"/>bound, and ſtarve in Priſons, through poverty and the cruelty of Lawyers and Goalers: and the poore abroad even periſh for want of imployment, and through the exceſſive price of foode, and few or none lay theſe things to heart: And if a<g ref="char:EOLhyphen"/>ny doe, and b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>come paſſionately affected therewith, and but ſpeake their mindes freely thereof, or [as hath been uſuall and commendable] endeavor to get Peo<g ref="char:EOLhyphen"/>ple
+<pb n="4" facs="tcp:165474:3"/>together in meetings and propoſe Petitions for redreſſe, the Puritans were ne<g ref="char:EOLhyphen"/>ver more reproched in the Biſhops times, nor the Independents &amp; Anabaptiſts in the late defection of Parliament, then now all ſuch are, with more odious Titles (or the ſame in a more odious forme, as Atheiſts, Levellers, Libertines, Introducers of Monarchy, Anarchy and Confuſion; which are poyſoned Arrowes ſhot princi<g ref="char:EOLhyphen"/>pally at us and our friends, though moſt unjuſtly, none hating or abhorring either the Principles or the Practice more then wee or our Relations.</p>
+            <p>To our underſtandings this is truly our miſerable condition, and the ſad condition of the Common-wealth, and which is the more grievous (becauſe in a time when up<g ref="char:EOLhyphen"/>on promiſes made in the preſence of God, and with appeales to his moſt righteous Judgements, we juſtly expected the cleereſt and largeſt freedoms, with even a totall redreſſe of all grievances, and which is no ſmall addition to our ſorrow, that we are wounded thus ſorely, by the hands whence we expected our moſt perfect Cure.</p>
+            <p>So that what to ſay or doe, either to help our ſelves or our friends that are both in miſery and danger, and the Common-wealth that lyeth in no ſmall degree of thraldome, we are exceedingly to ſeeke, and therefore as in fit condition for his help only, that is a preſent help in time of trouble, and who maketh mans extremity his oportunity, we moſt humbly and ardently beſeech his divine goodneſſe to vouchſafe you a true Chriſtian like Spirit of Condiſcention, whereby you may bee inclined to appoint ſome impartiall perſons to informe our underſtandings aright of many things here complained of, that if we be, we may appeare to have been miſtaken, pro feſſing from our Conſciences, that as yet we are confirmed in theſe our apprehenſi<g ref="char:EOLhyphen"/>ons of things, not only from our own reaſons, but from the Declarations, Promiſes, and Egagements of Parliament; and we truſt, this way of reaſoning out of diffe<g ref="char:EOLhyphen"/>rences will appeare more like unto the waies of God, then by force or threats to ſtop our mouthes, or ſuppreſſe our underſtandings.</p>
+            <p>Alſo that he will both rectifie and mollifie your hearts, that you may inſtantly look back from whence you are fall'n, To the juſt ends for which the Army reſerved you together, &amp; then not deſpayring but the hand that wounded may heale (it being Gods way) wee would beſeech you to render up unto the People their long de<g ref="char:EOLhyphen"/>teined Right of new elections, and a new elected Parliament.</p>
+            <p>To fulfill your promiſes concerning <hi>Magna Charta</hi> and the <hi>Petion</hi> of <hi>Right,</hi> to unbind every Burthen and to breake every Yoake; to give bread to the hungry, when you ſee the naked to cover him; &amp; not to hide your ſelves from thoſe of your owne fleſh (your preſent humble Petitioners) though never ſo much ſcandalized and reproached: To deliver the captive and ſet the oppreſſed free: and if for a teſtimony of your Reall intentions herein you ſhall releaſe unto us ours and the Nations true Friends, though pointed unto death or continuance in bonds, wee <gap reason="illegible" resp="#UOM" extent="2 lines">
+                  <desc>〈2 lines〉</desc>
+               </gap> have ſhall bee ever ready to preſerve you; and wee ſhall ever pray that the Lord our God may bee your exceeding great reward.</p>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <p>
+               <hi>READER,</hi> This foregoing Petition was <hi>(Octob. 23. 1649.)</hi> offered unto the Houſe, with moſt earneſt &amp; importunate ſollicitation to have it Received, but ſuch a face of denyall and oppoſition appeared amongſt them, that neither the Sargeant at Armes, nor any Member would ſo much as touch it, telling the Petitio<g ref="char:EOLhyphen"/>ners that the Houſe would not receive any Petition in <hi>Lieu. Col. Lilburnes</hi> behalfe; Notwithſtanding they have Declared, That it is the Right of the People of <hi>England</hi> To Pettion, and their Duty to receive Petitions, though againſt Law eſtabliſhed.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
